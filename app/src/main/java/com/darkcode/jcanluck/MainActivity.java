@@ -14,7 +14,7 @@ import android.view.View;
 //Logo de Rise Against - hecho en canvas.
 public class MainActivity extends AppCompatActivity {
     int cont = 0;//Menu Principal
-    int contd = 0;//Botones del Sub menus
+    int contd = 0;//Botones del Sub-menus
     int xT=0,yT=0;//Cordenadas para Traslacion
     int angle =0;//Angulo del mov de las flechas
 
